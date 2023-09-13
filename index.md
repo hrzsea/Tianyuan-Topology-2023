@@ -1,19 +1,15 @@
-# This page records the AMSS Topology Seminar in Spring Semester 2023
+# This page records The 2023 Seminar on Recent Advances in Topology (2023.09.18-09.14) at [Tianyuan Mathematics Research Center](http://tianyuan.amss.ac.cn)
 
 （return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
 
 
 
-### <font color=Peru size=3> 胡润杰（Stony Brook） </font>
+### <font color=Peru size=3> 范辉军（北京大学） </font>
 
-### <font color=LightCoral size=3>Time: 14：00-15：10, Jun. 28, 2023</font>
+Title: Progress on the study of Gauged linear Sigma models
 
-Place: N702
+Abstract: Gauged linear sigma model (GLSM) proposed by Witten nearly thirty years ago was used to ex- plain the mirror symmetry phenomena. GLSM relates to many important conjectures, like Landau- Ginzburg A model mirror to Landau-Ginzburg B model, Calabi-Yau model to Landau-Ginzburg model correspondence. GLSM has also in􏰇mate rela􏰇on with GIT and can also be formulated in category theory. This report gives a short survey on the recent progress on this topic.
 
-Title: Algebraic Model of Manifolds
-
-
-Abstract: The surgery theory of dimension at least 5 stayed in the central position of classification of manifolds in the last century. In 1970s, Ranicki invented the cosheaf theory of derived quadratic forms to give an algebraic discription of the existence of high dimensional manifolds over a fixed homotopy type and the homotopy manifold classifications. On the other hand, we could understand a homotopy type by passage to rational and p-adic information. Quillen and Sullivan individually developed the rational homotopy theories. Sullivan sketched the approach to algebraize simply connected rational manifolds, i.e., a free dga over Q together with a Poincare duality and several rational Pontryagin classes, and Zhixu Su completed the proof in her thesis. About two decades ago, Mandell proved that  E-inifinity algebras over Fp-bar canb be the algebraic models of p-adic nilpotent homotopy types. Five years ago, Rivera and Zeinalian showed that the cobar construction of coalgebras could give algebraic models of integral homotopy types. We want to generalize Sullivan's rational discussion of manifolds to give algebraic models of manifolds. The project is still in progress but  I will talk about our recent work of 2-adic discussion of Ranicki's theory and one application of this powerful theory to understand Galois actions on smooth complex varieties.
 
 -------------------------------------------------------------------------------------------
 
