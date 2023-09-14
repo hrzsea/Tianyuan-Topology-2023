@@ -1,4 +1,4 @@
-# This page records The 2023 Seminar on Recent Advances in Topology (2023.09.18-09.14) at [Tianyuan Mathematics Research Center](http://tianyuan.amss.ac.cn)
+# This page records The 2023 Seminar on Recent Advances in Topology (2023.09.08-09.13) at [Tianyuan Mathematics Research Center](http://tianyuan.amss.ac.cn)
 
 （return to homepage of [AMSS Topology Seminar](https://hrzsea.github.io/AMSS-Topology-Seminar/)）
 
